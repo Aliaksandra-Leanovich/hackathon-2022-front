@@ -1,4 +1,4 @@
-# BookStore
+# FindHobby.
 
 [Live Demo](https://aliaksandra-leanovich.github.io/hackathon-2022-front/)
 
