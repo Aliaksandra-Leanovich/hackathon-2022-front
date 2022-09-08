@@ -1,0 +1,91 @@
+[
+  {
+    "type": "braingame",
+    "name": "<TeachMeSkills/>",
+    "picture": "https://static.tildacdn.com/tild6437-6637-4639-b433-383262366537/Frame_4-min.png",
+    "url": "https://teachmeskills.by/",
+    "desc": "TeachMeSkills - это школа программирования, где мы научим тебя востребованным сегодня знаниям.",
+    "adress": "Тимирязева 67"
+  },
+  {
+    "type": "sport",
+    "name": "StartVolley",
+    "picture": "https://startvolley.by/img/gallery/small/relax3.jpg",
+    "url": "https://startvolley.by/",
+    "desc": "Первая школа в Беларуси по волейболу для взрослых и детей",
+    "adress": "Космонавтов 56"
+  },
+  {
+    "type": "art",
+    "name": "Art Platform",
+    "picture": "https://thumb.tildacdn.com/tild6132-3034-4837-a563-666334336230/-/resize/720x/-/format/webp/2_41.jpg",
+    "url": "https://covers.by/",
+    "desc": "Наши курсы рисования и живописи предполагают обучение любой желающий вне зависимости от возрастных рамок или наличия начальных навыков и умений.",
+    "adress": "проспект Пушкина 39"
+  },
+  {
+    "type": "handwork",
+    "name": "Maize",
+    "picture": "https://static.tildacdn.com/tild3866-3330-4564-a137-613436333131/2-108.jpg",
+    "url": "https://maize.by/",
+    "desc": "Приготовить ужин под руководством харизматичного шеф-повара в уютной атмосфере - прекрасное решение для вашего личного праздника. ",
+    "adress": "Ратомская 7"
+  },
+  {
+    "type": "adventure",
+    "name": "Sea Pegas",
+    "picture": "https://deeptrip.by/static/622805230.jpg",
+    "url": "https://seapegas.com/",
+    "desc": "Самый верный путь получить доступ в подводный мир – пройти курсы дайвинга под непосредственным руководством опытного инструктора, в авторитетном, проверенном месте. ",
+    "adress": "Победителей 109"
+  },
+  {
+    "type": "sport",
+    "name": "Yoga Place",
+    "picture": "https://static.tildacdn.com/tild3737-3666-4635-b964-646164353866/7F3260BC-8AC9-4A66-8.jpg",
+    "url": "https://yogaplace.by/",
+    "desc": "К НАМ ПРИХОДЯТ НЕ ТОЛЬКО ЗА ЙОГОЙ, НО И ЗА УЮТНОЙ ТЕПЛОЙ АТМОСФЕРОЙ.КАК ДОМА",
+    "adress": "Лещинского 8"
+  },
+  {
+    "type": "art",
+    "name": "Kolokol",
+    "picture": "https://kolokolschool.by/system/attachments/files/000/006/327/original/IMG_8605.jpg?1574418812",
+    "url": "https://kolokolschool.by/",
+    "desc": "Мастера гончарной школы «Колокол» с радостью поделятся с вами собственным опытом, и научат всему необходимому для дальнейшего развития в гончарстве.",
+    "adress": "Ангарская, 26"
+  },
+  {
+    "type": "art",
+    "name": "Yoga Place",
+    "picture": "https://static.tildacdn.com/tild3737-3666-4635-b964-646164353866/7F3260BC-8AC9-4A66-8.jpg",
+    "url": "https://yogaplace.by/",
+    "desc": "Добро пожаловать в Yoga Place – место для йоги, пространство для души. Для нас практика йоги – это не просто физкультура и не мистический ритуал.",
+    "adress": "Лещинского 8"
+  },
+
+  {
+    "type": "sport",
+    "name": "El Gato",
+    "picture": "https://p1.zoon.ru/preview/13yeJzl5KUYoU1K2rWIf1Q/1120x700x85/1/c/8/original_519f2fa7a0f3020c50000007_57bdbb97225b2.jpg",
+    "url": "https://elgato.by/",
+    "desc": "Для нас важен каждый ученик. Поэтому каждому уделяем должное внимание; вне зависимости от его текущего уровня. ",
+    "adress": "Маякоского, 154"
+  },
+  {
+    "type": "handwork",
+    "name": "Svechi",
+    "picture": "https://sun9-82.userapi.com/c834402/v834402579/1441bd/ns3_susSihk.jpg",
+    "url": "https://svechi.by/",
+    "desc": "Eсли Вы хотите заниматься приятным делом, в свободном режиме и продавать продукцию из дома по всему миру – приходите и мы научим!",
+    "adress": "Старовиленская, 131"
+  },
+  {
+    "type": "adventure",
+    "name": "Wilder",
+    "picture": "https://www.slivki.by/znijki-media/w522_322/default/1009921/splav-na-baydarkah-minsk-velotrek-kar.jpg",
+    "url": "https://wilder.by/",
+    "desc": "Более девяти лет наша команда занимается организацией активного летнего и зимнего отдыха. ",
+    "adress": "Свислочь"
+  }
+]
