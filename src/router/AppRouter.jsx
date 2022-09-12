@@ -11,13 +11,25 @@ import { TestPage } from "../pages/TestPage/TestPage";
 export const AppRouter = () => {
   return (
     <Routes>
-      <Route path="/" element={<MainTemplate />}>
-        <Route path="/" element={<HomePage />}></Route>
-        <Route path="/login" element={<LoginPage />}></Route>
-        <Route path="/about" element={<AboutPage />}></Route>
-        <Route path="/all-corses" element={<AllCorsesPage />}></Route>
-        <Route path="/test" element={<TestPage />}></Route>
-        <Route path="/contact" element={<ContactPage />}></Route>
+      <Route path="/hackathon-2022-front" element={<MainTemplate />}>
+        <Route path="/hackathon-2022-front" element={<HomePage />}></Route>
+        <Route
+          path="/hackathon-2022-front/login"
+          element={<LoginPage />}
+        ></Route>
+        <Route
+          path="/hackathon-2022-front/about"
+          element={<AboutPage />}
+        ></Route>
+        <Route
+          path="/hackathon-2022-front/all-corses"
+          element={<AllCorsesPage />}
+        ></Route>
+        <Route path="/hackathon-2022-front/test" element={<TestPage />}></Route>
+        <Route
+          path="/hackathon-2022-front/contact"
+          element={<ContactPage />}
+        ></Route>
       </Route>
     </Routes>
   );
