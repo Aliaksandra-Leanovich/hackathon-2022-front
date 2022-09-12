@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.d69e5db1.js",
-    "static/media/original-webp": "/static/media/original-be9f4c8d2ca9bbfdfeffc1b677b99fab.35c5c01b1d9a7828ee3f.webp",
-    "static/media/logo.png": "/static/media/logo.29c83796bb9849812caa.png",
-    "static/media/kid-green.jpeg": "/static/media/kid-green.27de2640406c63dcd3b3.jpeg",
-    "static/media/kid-blue.jpeg": "/static/media/kid-blue.03d877a121fb9ed70a5b.jpeg",
-    "static/media/kid-white.jpeg": "/static/media/kid-white.ea160d629468b73bcf5f.jpeg",
-    "static/media/kid-yell.jpeg": "/static/media/kid-yell.1f3d6c6dccec046c88e4.jpeg",
-    "index.html": "/index.html",
-    "main.d69e5db1.js.map": "/static/js/main.d69e5db1.js.map"
+    "main.js": "/hackathon-2022-front/static/js/main.b91c7043.js",
+    "static/media/original-webp": "/hackathon-2022-front/static/media/original-be9f4c8d2ca9bbfdfeffc1b677b99fab.35c5c01b1d9a7828ee3f.webp",
+    "static/media/logo.png": "/hackathon-2022-front/static/media/logo.29c83796bb9849812caa.png",
+    "static/media/kid-green.jpeg": "/hackathon-2022-front/static/media/kid-green.27de2640406c63dcd3b3.jpeg",
+    "static/media/kid-blue.jpeg": "/hackathon-2022-front/static/media/kid-blue.03d877a121fb9ed70a5b.jpeg",
+    "static/media/kid-white.jpeg": "/hackathon-2022-front/static/media/kid-white.ea160d629468b73bcf5f.jpeg",
+    "static/media/kid-yell.jpeg": "/hackathon-2022-front/static/media/kid-yell.1f3d6c6dccec046c88e4.jpeg",
+    "index.html": "/hackathon-2022-front/index.html",
+    "main.b91c7043.js.map": "/hackathon-2022-front/static/js/main.b91c7043.js.map"
   },
   "entrypoints": [
-    "static/js/main.d69e5db1.js"
+    "static/js/main.b91c7043.js"
   ]
 }
