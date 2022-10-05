@@ -36,7 +36,7 @@ export const MainContent = () => {
             </DescText>
           </HomeDescription>
         </ContainerText>
-        <StyledLink to="/test">
+        <StyledLink to="/hackathon-2022-front/test">
           Пройти Тест
           <ArrowRightOutlined style={{ fontSize: "18px" }} />
         </StyledLink>

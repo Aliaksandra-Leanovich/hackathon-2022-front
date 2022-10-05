@@ -40,7 +40,9 @@ export const MainCardsCorses = () => {
             }
           })}
         </ContainerAllCorses>
-        <StyledLink to="/all-corses">Список Всех Курсов</StyledLink>
+        <StyledLink to="/hackathon-2022-front/all-corses">
+          Список Всех Курсов
+        </StyledLink>
       </Container>
 
       <BackContainer />

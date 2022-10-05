@@ -12,7 +12,7 @@ export const Header = () => {
       </ContainerTitle>
 
       <Nav />
-      <StyledLink to="/login">Админ</StyledLink>
+      <StyledLink to="/hackathon-2022-front/login">Админ</StyledLink>
     </StyledHeader>
   );
 };

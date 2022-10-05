@@ -29,7 +29,7 @@ export const MainAddCorse = () => {
             </DescText>
           </AddDescription>
         </ContainerText>
-        <StyledLink to="/contact">
+        <StyledLink to="/hackathon-2022-front/contact">
           <MessageOutlined />
           Связаться с нами
         </StyledLink>
